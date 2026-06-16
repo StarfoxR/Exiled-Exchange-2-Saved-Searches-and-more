@@ -95,6 +95,7 @@ export default {
   WAYSTONE_RARE_MONSTERS: 'Monstres rares: ',
   WAYSTONE_DROP_CHANCE: 'Chances de trouver des Pierres de téléportation: ',
   WAYSTONE_RARITY: 'Rareté des objets: ',
+  WAYSTONE_MONSTER_RARITY: 'Rareté des Monstres: ',
   WAYSTONE_EFFECTIVENESS: 'Efficacité des Monstres: ',
   DOUBLE_CORRUPTED: 'Double Corruption',
   UNIQUE_MODIFIER: 'Modificateur d\'Objet unique',

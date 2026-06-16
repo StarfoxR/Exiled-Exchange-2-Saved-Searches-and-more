@@ -95,6 +95,7 @@ export default {
   WAYSTONE_RARE_MONSTERS: 'Редкие монстры: ',
   WAYSTONE_DROP_CHANCE: 'Шанс выпадения путевого камня: ',
   WAYSTONE_RARITY: 'Редкость предметов: ',
+  WAYSTONE_MONSTER_RARITY: 'Редкость монстров: ',
   WAYSTONE_EFFECTIVENESS: 'Эффективность монстров: ',
   DOUBLE_CORRUPTED: 'Дважды осквернено',
   UNIQUE_MODIFIER: 'Уникальное свойство',

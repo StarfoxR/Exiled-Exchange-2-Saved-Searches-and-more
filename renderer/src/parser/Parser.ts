@@ -434,6 +434,22 @@ function parseWaystone(section: string[], item: ParsedItem) {
         );
         continue;
       }
+
+      if (line.startsWith(_$.WAYSTONE_MONSTER_RARITY)) {
+        item.mapMonsterRarity = parseInt(
+          line.slice(_$.WAYSTONE_MONSTER_RARITY.length),
+          10,
+        );
+        continue;
+      }
+
+      if (line.startsWith(_$.WAYSTONE_EFFECTIVENESS)) {
+        item.mapEffectiveness = parseInt(
+          line.slice(_$.WAYSTONE_EFFECTIVENESS.length),
+          10,
+        );
+        continue;
+      }
     }
 
     return "SECTION_PARSED";

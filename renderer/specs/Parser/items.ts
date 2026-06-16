@@ -30,6 +30,8 @@ export class TestItem implements ParsedItem {
   mapDropChance?: number;
   mapMagicMonsters?: number;
   mapRareMonsters?: number;
+  mapMonsterRarity?: number;
+  mapEffectiveness?: number;
   gemLevel?: number | undefined;
   areaLevel?: number | undefined;
   talismanTier?: number | undefined;
@@ -771,6 +773,9 @@ Magic Monsters: +30% (augmented)
 Rare Monsters: +71% (augmented)
 Waystone Drop Chance: +90% (augmented)
 Item Rarity: +17% (augmented)
+Monster Rarity: +32% (augmented)
+Item Rarity: +17% (augmented)
+Monster Effectiveness: +45% (augmented)
 --------
 Item Level: 79
 --------
@@ -804,6 +809,8 @@ RareMapFakeAllProps.mapMagicMonsters = 30;
 RareMapFakeAllProps.mapRareMonsters = 71;
 RareMapFakeAllProps.mapDropChance = 90;
 RareMapFakeAllProps.mapItemRarity = 17;
+RareMapFakeAllProps.mapMonsterRarity = 32;
+RareMapFakeAllProps.mapEffectiveness = 45;
 RareMapFakeAllProps.sectionCount = 6;
 // #endregion RareMapFakeAllProps
 
