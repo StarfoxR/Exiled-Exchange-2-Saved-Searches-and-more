@@ -109,7 +109,7 @@ adding four new overlay widgets and QoL features:
 - New UI strings translated to 9 languages; preliminary Sanctified item parsing;
   auto-update intentionally disabled (so it never overwrites the modded asar);
   21 new store tests (522 total, green).
-- 🥚 Easter egg: `Ctrl + Alt + Shift + M`.
+
 
 **Warning**: the stash analyzer / gear compare use your POESESSID, stored in plain text in
 your local `config.json` and sent only to pathofexile.com. Don't share your config.
