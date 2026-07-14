@@ -4,6 +4,7 @@
 > con búsquedas guardadas, analizador de stash, comparador de ítems), mejoras al price check
 > y más. **Ver [README-FORK.md](README-FORK.md) para el detalle completo de cambios.**
 > This is a modded fork — see [README-FORK.md](README-FORK.md) for the full changelog.
+> In this fork there was use of AI
 
 [![GitHub Downloads (specific asset, latest release)](https://img.shields.io/github/downloads/kvan7/exiled-exchange-2/latest/Exiled-Exchange-2-Setup-0.15.8.exe?style=plastic&link=https%3A%2F%2Ftooomm.github.io%2Fgithub-release-stats%2F%3Fusername%3Dkvan7%26repository%3DExiled-Exchange-2)](https://tooomm.github.io/github-release-stats/?username=kvan7&repository=Exiled-Exchange-2)
 [![GitHub Tag](https://img.shields.io/github/v/tag/kvan7/exiled-exchange-2?style=plastic&label=latest%20version)](https://github.com/Kvan7/Exiled-Exchange-2/releases/latest)
